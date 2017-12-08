@@ -1,2 +1,3 @@
 # pipelineDemo
-# some more code
+
+Dummy source code repository for the Plutora CD Pipeline demo
